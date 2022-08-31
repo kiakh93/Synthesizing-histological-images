@@ -43,7 +43,7 @@ An example of GUI:
 For reproducing the results you can download the pretrain model from [here.](https://uofi.box.com/s/e8kawvar5z17hjc8bixwkfg2fsdoawkj)
 
 ### Results
-<img src="imgs/Fig1.png" width="800px"/>
+<img src="imgs/merging.png" width="800px"/>
 
 ### References
 https://github.com/NVlabs/SPADE |
