@@ -38,7 +38,7 @@ python training.py --n_epochs [number of epochs] --batch_size [batch size] --lr 
 ```bash
 python GUI.py
 ```
-##An example of GUI
+## An example of GUI
 <img src="imgs/GUI.gif" width="800px"/>
 For reproducing the results you can download the pretrain model from [here.](https://uofi.box.com/s/e8kawvar5z17hjc8bixwkfg2fsdoawkj)
 
