@@ -41,6 +41,7 @@ python GUI.py
 ## An example of GUI
 <img src="imgs/GUI.gif" width="800px"/>
 For reproducing the results you can download the pretrain model from 
+### [Paper](https://arxiv.org/abs/2206.08308)
 ### [here](https://uofi.box.com/s/e8kawvar5z17hjc8bixwkfg2fsdoawkj)
 
 ### Results
