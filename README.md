@@ -27,17 +27,19 @@ We present an approach to not only generate histological images that reproduce t
 - sys
 - PIL
 
-## Training and testing
+## Training 
 
 - The training dataset is available upon reasonable request. 
 - For training, please put the dataset in proper directory and use this command:
 ```bash
-python training.py --n_epochs [numberof epochs] --batch_size [batch size] --lr [learning rate] 
+python training.py --n_epochs [number of epochs] --batch_size [batch size] --lr [learning rate] 
 ```
--For testing, please use this:
+-For GUI:
 ```bash
-python test.py --dataset_dir [directory of the dataset] --batch_size [batch size] 
+python GUI.py
 ```
+An example of GUI:
+<img src="imgs/GUI.gif" width="800px"/>
 For reproducing the results you can download the pretrain model from [here.](https://uofi.box.com/s/9g6epqfmhf55ewembqio6t09imsd3uwq)
 
 ### Results
