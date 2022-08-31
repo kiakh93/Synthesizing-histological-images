@@ -30,9 +30,9 @@ We present an approach to not only generate histological images that reproduce t
 ## Training and testing
 
 - The training dataset is available upon reasonable request. 
-- For training, please use this command:
+- For training, please put the dataset in proper directory and use this command:
 ```bash
-python training.py --n_epochs [numberof epochs] --dataset_dir [directory of the dataset] --batch_size [batch size] --lr [learning rate] 
+python training.py --n_epochs [numberof epochs] --batch_size [batch size] --lr [learning rate] 
 ```
 -For testing, please use this:
 ```bash
