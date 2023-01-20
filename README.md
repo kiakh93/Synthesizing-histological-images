@@ -1,11 +1,15 @@
 # Deepfake histological images for enhancing digital pathology  
-### [Paper](https://arxiv.org/abs/2206.08308)
+### [Paper](https://www.sciencedirect.com/science/article/pii/S002368372200006X)
 ```
-@article{falahkheirkhah2022deepfake,
-  title={Deepfake histological images for enhancing digital pathology},
-  author={Falahkheirkhah, Kianoush and Tiwari, Saumya and Yeh, Kevin and Gupta, Sounak and Herrera-Hernandez, Loren and McCarthy, Michael R and Jimenez, Rafael E and Cheville, John C and Bhargava, Rohit},
-  journal={arXiv preprint arXiv:2206.08308},
-  year={2022}
+@article{FALAHKHEIRKHAH2023100006,
+title = {Deepfake Histologic Images for Enhancing Digital Pathology},
+journal = {Laboratory Investigation},
+volume = {103},
+number = {1},
+pages = {100006},
+year = {2023},
+issn = {0023-6837},
+doi = {https://doi.org/10.1016/j.labinv.2022.100006},
 }
 ```
 <img src="imgs/Fig 1.tiff" width="800px"/>
